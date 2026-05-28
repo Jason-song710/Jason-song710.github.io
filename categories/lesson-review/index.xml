@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on AI Note</title>
-    <link>https://Jason-song710.github.io/posts/</link>
-    <description>Recent content in Posts on AI Note</description>
+    <title>Lesson-Review on AI Note</title>
+    <link>https://Jason-song710.github.io/categories/lesson-review/</link>
+    <description>Recent content in Lesson-Review on AI Note</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 19:39:12 +0900</lastBuildDate>
-    <atom:link href="https://Jason-song710.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>첫번째 날</title>
-      <link>https://Jason-song710.github.io/posts/first/</link>
-      <pubDate>Wed, 27 May 2026 19:39:12 +0900</pubDate>
-      <guid>https://Jason-song710.github.io/posts/first/</guid>
-      <description>&lt;p&gt;2026년 5월 26일(화) 이어드림스쿨 첫 수업 후 도전해보는 Hugo 블로그와 github 연동&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Tue, 26 May 2026 09:10:00 +0900</lastBuildDate>
+    <atom:link href="https://Jason-song710.github.io/categories/lesson-review/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2026-05-26 이어드림스쿨 수업 정리: 컴퓨터는 코드를 어떻게 이해할까</title>
       <link>https://Jason-song710.github.io/posts/second/</link>
