@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI Note</title>
-    <link>https://Jason-song710.github.io/</link>
+    <link>https://jason-song710.github.io/</link>
     <description>Recent content on AI Note</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ko</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Wed, 27 May 2026 19:39:12 +0900</lastBuildDate><atom:link href="https://Jason-song710.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 May 2026 19:39:12 +0900</lastBuildDate><atom:link href="https://jason-song710.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>첫번째 날</title>
-      <link>https://Jason-song710.github.io/posts/first/</link>
+      <link>https://jason-song710.github.io/posts/first/</link>
       <pubDate>Wed, 27 May 2026 19:39:12 +0900</pubDate>
       
-      <guid>https://Jason-song710.github.io/posts/first/</guid>
+      <guid>https://jason-song710.github.io/posts/first/</guid>
       <description>&lt;p&gt;2026년 5월 26일(화) 이어드림스쿨 첫 수업 후 도전해보는 Hugo 블로그와 github 연동&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>2026-05-26 이어드림스쿨 수업 정리: 컴퓨터는 코드를 어떻게 이해할까</title>
-      <link>https://Jason-song710.github.io/posts/second/</link>
+      <link>https://jason-song710.github.io/posts/second/</link>
       <pubDate>Tue, 26 May 2026 09:10:00 +0900</pubDate>
       
-      <guid>https://Jason-song710.github.io/posts/second/</guid>
-      <description>&lt;p&gt;&lt;figure&gt;&lt;img&#xD;&#xA;    class=&#34;my-0 rounded-md&#34;&#xD;&#xA;    loading=&#34;lazy&#34;&#xD;&#xA;    decoding=&#34;async&#34;&#xD;&#xA;    fetchpriority=&#34;low&#34;&#xD;&#xA;    alt=&#34;컴퓨터와 프로그래밍 언어 흐름&#34;&#xD;&#xA;    src=&#34;https://Jason-song710.github.io/images/posts/computer-basics-language-linux.webp&#34;&#xD;&#xA;    &gt;&lt;/figure&gt;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;오늘 &lt;code&gt;컴퓨터의 이해&lt;/code&gt; 자료에서 가장 크게 잡은 감각은 이것이다. 사람은 사람이 읽기 쉬운 말로 코드를 쓰고, 컴퓨터는 그 코드를 바로 읽는 게 아니라 자기 방식으로 번역해서 실행한다.&lt;/p&gt;&#xA;&lt;p&gt;처음에는 &amp;ldquo;파이썬 코드를 치면 컴퓨터가 그대로 알아듣는 것 아닌가?&amp;ldquo;라고 생각하기 쉽다. 그런데 실제로는 중간에 번역자가 있다. 그 번역자가 인터프리터이거나 컴파일러다.&lt;/p&gt;&#xA;&#xD;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;코드가 실행되는 흐름&#xD;&#xA;    &lt;div id=&#34;코드가-실행되는-흐름&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%ec%bd%94%eb%93%9c%ea%b0%80-%ec%8b%a4%ed%96%89%eb%90%98%eb%8a%94-%ed%9d%90%eb%a6%84&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;흐름만 보면 생각보다 단순하다.&lt;/p&gt;</description>
+      <guid>https://jason-song710.github.io/posts/second/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;&lt;img&#xD;&#xA;    class=&#34;my-0 rounded-md&#34;&#xD;&#xA;    loading=&#34;lazy&#34;&#xD;&#xA;    decoding=&#34;async&#34;&#xD;&#xA;    fetchpriority=&#34;low&#34;&#xD;&#xA;    alt=&#34;컴퓨터와 프로그래밍 언어 흐름&#34;&#xD;&#xA;    src=&#34;https://jason-song710.github.io/images/posts/computer-basics-language-linux.webp&#34;&#xD;&#xA;    &gt;&lt;/figure&gt;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;오늘 &lt;code&gt;컴퓨터의 이해&lt;/code&gt; 자료에서 가장 크게 잡은 감각은 이것이다. 사람은 사람이 읽기 쉬운 말로 코드를 쓰고, 컴퓨터는 그 코드를 바로 읽는 게 아니라 자기 방식으로 번역해서 실행한다.&lt;/p&gt;&#xA;&lt;p&gt;처음에는 &amp;ldquo;파이썬 코드를 치면 컴퓨터가 그대로 알아듣는 것 아닌가?&amp;ldquo;라고 생각하기 쉽다. 그런데 실제로는 중간에 번역자가 있다. 그 번역자가 인터프리터이거나 컴파일러다.&lt;/p&gt;&#xA;&#xD;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;코드가 실행되는 흐름&#xD;&#xA;    &lt;div id=&#34;코드가-실행되는-흐름&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%ec%bd%94%eb%93%9c%ea%b0%80-%ec%8b%a4%ed%96%89%eb%90%98%eb%8a%94-%ed%9d%90%eb%a6%84&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;흐름만 보면 생각보다 단순하다.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://Jason-song710.github.io/search/</link>
+      <link>https://jason-song710.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Jason-song710.github.io/search/</guid>
+      <guid>https://jason-song710.github.io/search/</guid>
       <description>search</description>
       
     </item>
