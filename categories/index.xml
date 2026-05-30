@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on AI Note</title>
-    <link>https://jason-song710.github.io/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on AI Note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Tue, 26 May 2026 09:10:00 +0900</lastBuildDate><atom:link href="https://jason-song710.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 May 2026 09:10:00 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Lesson-Review</title>
-      <link>https://jason-song710.github.io/categories/lesson-review/</link>
+      <link>http://localhost:1313/categories/lesson-review/</link>
       <pubDate>Tue, 26 May 2026 09:10:00 +0900</pubDate>
       
-      <guid>https://jason-song710.github.io/categories/lesson-review/</guid>
+      <guid>http://localhost:1313/categories/lesson-review/</guid>
       <description></description>
       
     </item>
